@@ -4,3 +4,16 @@ h1{
     font-weight: 700;
     text-align: center;
 }
+
+a{
+    font-family: monospace;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+a:hover{
+    color: green;
+}
